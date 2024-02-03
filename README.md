@@ -1,5 +1,7 @@
-# Conversao-Temperatura-Azure-Functions
-Criação de uma API com Azure Functions para conversão de temperatura.
+# Conversao Temperatura com Azure Functions
+
+## Contexto
+Desenvolvi um projeto utilizando Azure Functions e implementei duas funções para uma API, uma para a conversão de Celsius para Fahrenheit e outra de Fahrenheit para Celsius. Em seguida, estabeleci um novo grupo de recursos no Azure e realizei o deploy do meu projeto recém-criado. Com isso, a API tornou-se acessível na internet por meio da nuvem, pronta para ser utilizada.
 
 ![image](https://github.com/cintra1/Conversao-Temperatura-Azure-Functions/assets/101955322/2e60842f-d6a9-43f4-bd2e-b56483c05445)
 
